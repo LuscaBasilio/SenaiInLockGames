@@ -1,0 +1,14 @@
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.deps.json
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.runtimeconfig.json
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.runtimeconfig.dev.json
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.dll
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.csprojAssemblyReference.cache
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.RazorAssemblyInfo.cache
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.RazorAssemblyInfo.cs
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.AssemblyInfo.cs
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.RazorTargetAssemblyInfo.cache
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\bin\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.pdb
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.dll
+C:\Users\fic\source\repos\Senai.InLock.DatabaseFirst.Solution\Senai.InLock.DatabaseFirst.Solution\obj\Debug\netcoreapp2.1\Senai.InLock.DatabaseFirst.Solution.pdb
